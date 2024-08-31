@@ -31,4 +31,6 @@ Here are screenshots of successfully performed session hijacking and granting un
 ![Url](https://i.imgur.com/ie2qZmJ.png)
 
 7 We send the request again and this time we see the admin page
-![Url](https://i.imgur.com/ucJNASn.png)
+![Url](https://i.imgur.com/ucJNASn.png
+
+Here we are, we granted ourselves access using the hijacked Session ID. Definitely something you don't want to happen to your website or web application. :)
